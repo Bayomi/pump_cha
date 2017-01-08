@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## 9 Yards Project
 
-You can use the [editor on GitHub](https://github.com/Bayomi/pump_cha/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Description
 
-### Markdown
+A competition which targets the prediction of possible faults in Tanzania water pumps. We’ve been using this specific goal to study the diverse pre-processing techniques for missing and unreliable data and the combinations of different models to rise our accuracy. We used different techniques and frameworks (sklearn, TensorFlow). The final results will be posted after January.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Links
 
-```markdown
-Syntax highlighted code block
+[github code](https://github.com/Bayomi/pump_cha/)
 
-# Header 1
-## Header 2
-### Header 3
+[competition page](https://community.drivendata.org/c/pump-it-up-data-mining-the-water-table)
 
-- Bulleted
-- List
+### Contact
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Bayomi/pump_cha/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble or any doubts about the project? Do you want to contribute or see other projects? Contact me at gbayomi@gmail.com or visit my [website](http://gbayomi.com/) or [github page](https://github.com/Bayomi/).
